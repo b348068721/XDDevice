@@ -17,3 +17,5 @@ INFO:
   totalDisk
   isSIMInstalled
   CPUUsage
+
+Notice:deviceID due to KeyChainStore need to bo configured
